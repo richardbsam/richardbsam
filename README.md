@@ -29,6 +29,14 @@ An interactive page featuring local attractions, statistics, and events.
 - Leveraged CSS Grid for layout and optimized images for performance.
 - Stored user data using localStorage to display personalized messages.
 
+### [JavaScript Weather App Project 🌦️](https://richardbsam.github.io/cse121b-javascript-language-class-project)
+The JavaScript Weather App Project is a dynamic and user-friendly application that provides real-time weather updates for a specified location. This project showcases practical use of JavaScript for integrating APIs, manipulating the DOM, and creating an engaging user experience.
+- Real-Time Weather Data
+- Search Functionality
+- Dynamic User Interface
+- Responsive Design
+- Error Handling
+
 ## 📊 GitHub Stats
 
 
