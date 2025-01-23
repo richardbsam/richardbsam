@@ -38,7 +38,7 @@ The WWR Rafting Website is a vibrant and informational site dedicated to promoti
 - Visual Appeal
 - Safety Information:
 
-### [JavaScript Weather App Project 🌦️](https://richardbsam.github.io/cse121b-javascript-language-class-project)
+### [JavaScript Weather App Project 🌦️](https://richardbsam.github.io/cse121b-javascript-language-class-project/project.html)
 The JavaScript Weather App Project is a dynamic and user-friendly application that provides real-time weather updates for a specified location. This project showcases practical use of JavaScript for integrating APIs, manipulating the DOM, and creating an engaging user experience.
 - Real-Time Weather Data
 - Search Functionality
