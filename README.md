@@ -47,8 +47,8 @@ The JavaScript Weather App Project is a dynamic and user-friendly application th
 - Error Handling
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richardbsam&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![GitHub Streak]
+![Top Languages]
 
 ## 📫 Connect With Me
 - **LinkedIn:** [Richard's LinkedIn](https://www.linkedin.com/in/richard-sam-99ba306a)
