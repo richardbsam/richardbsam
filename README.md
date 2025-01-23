@@ -1,4 +1,4 @@
-# Hi there, I'm Richard Sam! 👋
+# Hi there, I'm Richard! 👋
 
 ## 🌟 About Me
 I'm a passionate Mechanical Engineer turned Software Development student at BYU Idaho, currently honing my skills in building efficient and user-friendly web applications. With a background in Mechanical Engineering and over 10 years of experience in CAD design, I've developed a unique perspective that bridges the gap between engineering precision and creative coding. I'm also deeply interested in pursuing a career in academics and continuous learning.
