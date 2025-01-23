@@ -30,8 +30,7 @@ An interactive page featuring local attractions, statistics, and events.
 - Stored user data using localStorage to display personalized messages.
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
 
 ## 📫 Connect With Me
 - **LinkedIn:** [Richard's LinkedIn](https://www.linkedin.com/in/richard-sam-99ba306a)
